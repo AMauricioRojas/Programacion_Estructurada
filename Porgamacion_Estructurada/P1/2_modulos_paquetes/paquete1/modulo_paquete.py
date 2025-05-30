@@ -32,5 +32,5 @@ def espereTecla():
   input("... Oprima una tecla para continuar ... ")
 
 def saludar(nombre):
-   nom=nombre
-   return f"¡Hola, bienvenido: {nom}!"
+  nom=nombre
+  return f"¡Hola, bienvenido: {nom}!"
