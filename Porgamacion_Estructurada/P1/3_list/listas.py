@@ -59,7 +59,7 @@ else:
 
 
 #añadir elementos a una lista
-agenda=[
+"""agenda=[
     ["Juan", "1234567890", ],
     ["Maria", "0987654321"],
     ["Carlos", "1122334455"],
@@ -72,7 +72,9 @@ os.system("cls")
 for r in range(0,3):
     for c in range (0,2):
         print(agenda[r])
-        print(agenda[c])
+        print(agenda[c]"""
+
+
 
 
 
